@@ -4,6 +4,7 @@ import styled from "@emotion/styled"
 export function theme() {
     const theme = {
         primary: {
+            forntFamily: '',
             light: {
                 backgroundColor: '#f3f3f3'
             },
